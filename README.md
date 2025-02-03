@@ -1,8 +1,8 @@
 # 🚀 Wilian Lima - Engenheiro de Cibersegurança
 [![Github Badge](https://img.shields.io/badge/GitHub-000000?logo=github&logoColor=white)](https://github.com/wbatista09)
-
+<!--
 > Especialista atuante em Cibersegurança, hábil em programação de Linguagem C a Shellscript. Com experiência em gestão de WAF, Policy Compliance, monitoramento SIEM, Gestão de Vulnerabilidades, Simulações de Phishing, Threat Intelligence com MISP e Privileged Access Management com Secret Server.
-
+-->
 
 ## 🛠️ Ferramentas e Tecnologias
 ![HTML5](https://img.shields.io/badge/HTML5-FF5722?logo=html5&logoColor=white)
